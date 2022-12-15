@@ -62,7 +62,9 @@
     ],
     "overrides": [
       {
-        "files": ["cypress/integration/*.ts"],
+        "files": [
+          "cypress/integration/*.ts"
+        ],
         "rules": {
           "testing-library/await-async-query": "off",
           "testing-library/prefer-screen-queries": "off"
