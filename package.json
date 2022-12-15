@@ -18,7 +18,7 @@
     "@emotion/styled": "^11",
     "apollo-server-micro": "^2.25.2",
     "cheerio": "^1.0.0-rc.10",
-    "framer-motion": "^4",
+    "framer-motion": "^7.6.9",
     "graphql": "^15.8.0",
     "next": "12.1.0",
     "next-pwa": "^5.4.4",
